@@ -58,6 +58,12 @@ Estoy motivado por los desafíos y en constante búsqueda de mejorar mis habilid
   <img src="https://skillicons.dev/icons?i=html,css&perline=10" />
 </p>
 
+### ☁️ Plataformas de despliegue
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel&perline=10" />
+</p>
+
+
 <br>
 
 <p align="center">Gracias por visitar mi perfil 👋</p>
