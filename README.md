@@ -25,43 +25,60 @@ Estoy motivado por los desafíos y en constante búsqueda de mejorar mis habilid
 
 ### 👨‍💻 Lenguajes de programación
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,php,dart,kotlin,py&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" />
 </p>
 
 ### 🧰 Frameworks y librerías
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react,angular,vite&perline=10" />
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
 </p>
 
 ### 🗃️ Bases de datos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
 </p>
 
 ### 🧪 Herramientas y plataformas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
 </p>
 
 ### 🖥️ Sistemas Operativos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,mint&perline=10" />
+  <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
+  <img src="https://skillicons.dev/icons?i=mint" title="Linux Mint" />
 </p>
 
 ### 🎨 Diseño y desarrollo móvil
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,figma,androidstudio&perline=10" />
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
 </p>
 
 ### 🌐 Desarrollo web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
 </p>
 
 ### ☁️ Plataformas de despliegue
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel&perline=10" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
 </p>
+
 
 
 <br>
