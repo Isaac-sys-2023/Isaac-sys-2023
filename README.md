@@ -59,6 +59,8 @@ Estoy motivado por los desafíos y en constante búsqueda de mejorar mis habilid
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
   <img src="https://skillicons.dev/icons?i=mint" title="Linux Mint" />
+  <img src="assets/linux_lite.jpg" title="Linux Lite" height="48px" style="border-radius: 8px;" />
+
 </p>
 
 ### 🎨 Diseño y desarrollo móvil
